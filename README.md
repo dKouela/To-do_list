@@ -5,11 +5,17 @@ This Python program is a simple command-line to-do list application.
 
 Features
 -Add Task: Add new tasks to the to-do list.
+
 -Mark Task as Complete: Mark tasks as complete when they are done.
+
 -View Tasks: View the list of tasks along with their completion status.
+
 -Save to File: Save the list of tasks to a file for future reference.
+
 -Load from File: Load previously saved tasks from a file.
+
 -Quit: Exit the application.
+
 
 
 Getting Started
