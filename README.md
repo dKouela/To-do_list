@@ -25,16 +25,19 @@ Prerequisites: Make sure you have Python installed on your computer. If not, you
 Clone the Repository: Clone this repository to your local machine using the following command:
 
 shellL:
-git clone 
+git clone https://github.com/dKouela/To-do_list.git
 Run the Application: Navigate to the project directory and run the todo.py script using Python:
 
 shell
 
 cd todo-list-python
 python todo.py
-Usage: Follow the on-screen menu to add, view, mark as complete, save, load tasks, or quit the application.
+
+Usage:
+Follow the on-screen menu to add, view, mark as complete, save, load tasks, or quit the application.
 
 Contributing
+
 Contributions are welcome! If you want to contribute to this project, please follow these steps:
 
 Fork the repository on GitHub.
