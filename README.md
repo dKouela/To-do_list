@@ -51,4 +51,4 @@ Inspired by real-world to-do list applications.
 Contact
 If you have any questions or suggestions, please feel free to contact the project owner:
 
-GitHub: dKouela
+GitHub: [dKouela](https://github.com/dKouela)
