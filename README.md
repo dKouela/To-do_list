@@ -3,7 +3,7 @@
 This Python program is a simple command-line to-do list application.
  It allows users to manage their tasks by adding new tasks, marking tasks as complete, viewing tasks, saving tasks to a file, and loading tasks from a file.
 
-Features
+**Features**
 
 -Add Task: Add new tasks to the to-do list.
 
@@ -17,18 +17,18 @@ Features
 
 -Quit: Exit the application.
 
+**Getting Started**
 
-
-Getting Started
 Prerequisites: Make sure you have Python installed on your computer. If not, you can download it from Python's official website.
 
 Clone the Repository: Clone this repository to your local machine using the following command:
 
-shellL:
-git clone https://github.com/dKouela/To-do_list.git
+**shellL:**
+
+git clone <https://github.com/dKouela/To-do_list.git>
 Run the Application: Navigate to the project directory and run the todo.py script using Python:
 
-shell
+**shell**
 
 cd todo-list-python
 python todo.py
